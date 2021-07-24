@@ -9,3 +9,5 @@
 #### I used Beautiful Soup to get the necessary ratios and values following which I used data analysis and python programming to automate the process. 
 
 #### The model measures the value of the company when compared to its earnings. This gives an investor a fair idea of how and where a company is placed among its competitors after taking its assets and liabilities into account.
+
+[Click here](https://github.com/Darsangmdd/Fundamental-Analysis-EV-EDBITDA-model-/blob/main/NIFTY_50_EV_EBITDA_Model.ipynb) to view the model. 
