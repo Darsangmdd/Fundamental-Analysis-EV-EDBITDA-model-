@@ -11,3 +11,5 @@
 #### The model measures the value of the company when compared to its earnings. This gives an investor a fair idea of how and where a company is placed among its competitors after taking its assets and liabilities into account.
 
 [Click here](https://github.com/Darsangmdd/Fundamental-Analysis-EV-EDBITDA-model-/blob/main/NIFTY_50_EV_EBITDA_Model.ipynb) to view the model. 
+
+[Click here](https://github.com/Darsangmdd/Fundamental-Analysis-EV-EDBITDA-model-/blob/main/NIFTY50_model.csv) to view the performance of the stock after analysis. 
