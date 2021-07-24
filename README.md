@@ -1,4 +1,4 @@
-# Fundamental-Analysis-EV-EDBITDA-model-
+## Fundamental Analysis EV/EDBITDA model
 
 #### While exploring the domain of finance, I understood the pain points in analyzing the stocks one wishes to buy after starting professional life. 
 
